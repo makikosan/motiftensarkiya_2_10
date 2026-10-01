@@ -1,0 +1,11 @@
+{
+	"name": "Motiften Şarkıya",
+	"short_name": "Motiften Şarkıya",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
